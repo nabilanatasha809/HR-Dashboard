@@ -6,12 +6,13 @@ This project presents a Human Resource Analytics Dashboard designed to monitor e
 ## Tools
 Microsoft Power BI,
 Power Query,
-DAX Measures,
+DAX Measures
 
 ## Features 
 Employee Distribution,
 Employee Demographics,
-Employee Turnover Analysis,
+Employee Turnover Analysis
 
 # Preview
-<img width="1361" height="746" alt="image" src="https://github.com/user-attachments/assets/e7f20a68-45db-4f9c-822a-69e154736955" /> 
+<img width="1358" height="752" alt="image" src="https://github.com/user-attachments/assets/8f278f80-4c76-419c-99f6-2fc5a12afff0" />
+
